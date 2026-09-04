@@ -1,2 +1,11 @@
-a.out
+# Compiled Executables (Windows ke liye .exe, Linux ke liye .out)
+*.exe
+*.out
+*.o
+
+# Build folders
+build/
+bin/
+
+# VS Code specific settings
 .vscode/
