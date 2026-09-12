@@ -1,4 +1,5 @@
 // This program calculates the area of a rectangle using the multiplication operator.
+// Solution:
 #include <iostream>
 using namespace std;
 
