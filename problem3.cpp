@@ -3,7 +3,7 @@
 Input: n = 4, m = 8
 Output: less
 Explanation: 4 < 8 so print 'less'. */
-  solution:
+
 #include <iostream>
 using namespace std;
 
