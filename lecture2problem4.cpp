@@ -1,6 +1,6 @@
 /*Problem Statement:
 Given an integer N and a 0-indexed position K, write a C++ function to check if the K-th bit of N is set to 1 or not. Your function should return true if the bit is 1, and false if it is 0. */
-// solution:
+// Solution:
 #include <iostream>
 
 // Function to check if K-th bit is set
