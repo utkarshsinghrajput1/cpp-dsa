@@ -1,8 +1,9 @@
-// Q1. Number me kitne 0 hain? 🔢
+// Q1. Number me kitne 0 hain? 
 
 // Input: 1050200
 // Output: 4
-// Solution:
+
+// Solution: Below is a C++ program that counts the number of zeros in an integer input by the user.
 #include <iostream>
 using namespace std;
 
