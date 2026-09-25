@@ -1,4 +1,4 @@
-// 12. Book Reading Challenge
+// 31. Book Reading Challenge
 // Problem: Ek 300 pages ki book hai. 
 // Tum roz 45 pages padhte ho. Kitne dino me book khatam hogi?
 #include <iostream>
