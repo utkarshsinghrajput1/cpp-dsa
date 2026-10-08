@@ -1,4 +1,4 @@
-// 1.Spiral Matrix Pattern
+// 35.Spiral Matrix Pattern
 // Question: n × n matrix ko spiral order me 1 se n² tak fill karo.
 // For n = 5
 //  1  2  3  4  5
