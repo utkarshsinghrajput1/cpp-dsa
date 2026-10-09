@@ -27,3 +27,4 @@ int main() {
 
     return 0;
 }
+// Logic: Forward sequence aur reverse sequence ko alag loops mein print karna hai.
