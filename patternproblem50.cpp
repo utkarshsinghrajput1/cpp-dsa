@@ -577,16 +577,16 @@ We also reject N values below 1 and above 1024.
 
 */
 
-#include <iostream>
-#include <string>
-using namespace std;
+// #include <iostream>
+// #include <string>
+// using namespace std;
 
-int main() {
+// int main() {
 
     // STEP 1:
     // Read the number of rows from the user.
-    int n;
-    cin >> n;
+    // int n;
+    // cin >> n;
 
     // STEP 2:
     // Validate the input.
@@ -595,10 +595,10 @@ int main() {
     // Also, n must be a power of 2.
     //
     // If n is not valid, print an error and stop.
-    if (n < 1 || n > 1024 || (n & (n - 1)) != 0) {
-        cout << "N must be a power of 2 between 1 and 1024\n";
-        return 0;
-    }
+    // if (n < 1 || n > 1024 || (n & (n - 1)) != 0) {
+    //     cout << "N must be a power of 2 between 1 and 1024\n";
+    //     return 0;
+    // }
 
     // STEP 3:
     // Outer loop controls the rows.
@@ -607,7 +607,7 @@ int main() {
     // r takes values 0, 1, 2, 3, 4, 5, 6, 7.
     //
     // This generates exactly 8 rows.
-    for (int r = 0; r < n; r++) {
+    // for (int r = 0; r < n; r++) {
 
         // STEP 4:
         // Create an empty row filled with spaces.
@@ -617,7 +617,7 @@ int main() {
         // For n = 8, the width is 15 characters.
         //
         // We will replace selected spaces with stars.
-        string line(2 * n - 1, ' ');
+        // string line(2 * n - 1, ' ');
 
         // STEP 5:
         // Check the columns from 0 up to the current row.
