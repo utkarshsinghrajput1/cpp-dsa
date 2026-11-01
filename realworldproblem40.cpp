@@ -16,7 +16,6 @@ int main() {
     int powerDemand1 = 20;
     int powerDemand2 = 15;
     int powerDemand3 = 25;
-
     int waterDemand1 = 10;
     int waterDemand2 = 12;
     int waterDemand3 = 15;
