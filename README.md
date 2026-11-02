@@ -1,9 +1,12 @@
-# My First C++ Repository
-Hello everyone! Welcome to my very first GitHub repository. 
+# C++ Problem Solving
 
-I have created this space to document my journey of learning *C++ programming*. 
-What's inside?
-* Basic C++ syntax and program
+This repository contains a collection of 100+ C++ programs focusing on logic building, Data Structures, and Algorithms.
 
-# Language Used
-* *C++*
+### Contents
+* Basic C++ syntax and logic programs
+* Data Structures and Algorithms (DSA)
+* Real-world scenario and system simulations
+
+### How to Run
+1. Compile: `g++ filename.cpp`
+2. Run: `./a.out` (Linux/Mac) or `.\a.exe` (Windows)
