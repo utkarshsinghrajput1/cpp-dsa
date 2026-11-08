@@ -1,4 +1,4 @@
-// 22. Smart Farming Crop Code
+// 62. Smart Farming Crop Code
 // Problem
 // Crop code special hoga agar:
 // - Proper divisor sum divisible by digit sum
